@@ -2,6 +2,8 @@
 
 # JAMstack ブログアプリ
 
+## デモページ: https://b13o.github.io/microCMS-blog/
+
 ## 概要
 
 このプロジェクトでは、microCMS を使用したシンプルなブログアプリを構築します。
